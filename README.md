@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 70 Contributions in the Year 2021
+> 🏆 71 Contributions in the Year 2021
  > 
 > 📦 9.4 kB Used in Github's Storage 
  > 
@@ -90,5 +90,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BilalJaved15/BilalJaved15/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2021
+ Last Updated on 31/08/2021
 <!--END_SECTION:waka-->
