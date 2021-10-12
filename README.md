@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 101 Contributions in the Year 2021
  > 
-> 📦 12.4 kB Used in GitHub's Storage 
+> 📦 12.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,5 +88,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BilalJaved15/BilalJaved15/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
