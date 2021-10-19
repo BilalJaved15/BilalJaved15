@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-365338%20lines%20of%20code-blue)
 
@@ -61,13 +61,18 @@ Sunday       25 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 15 mins       ███████████████░░░░░░░░░░   60.8% 
+XML                      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   23.07% 
+Kotlin                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 3 hrs 10 mins       ██████████████░░░░░░░░░░░   59.21% 
+Android Studio           2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.79%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
