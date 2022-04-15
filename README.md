@@ -88,5 +88,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BilalJaved15/BilalJaved15/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/04/2022 19:16:47 UTC
+ Last Updated on 15/04/2022 19:18:14 UTC
 <!--END_SECTION:waka-->
