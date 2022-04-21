@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 94 Contributions in the Year 2022
  > 
-> 📦 26.1 kB Used in GitHub's Storage 
+> 📦 25.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,5 +88,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BilalJaved15/BilalJaved15/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/04/2022 19:17:36 UTC
+ Last Updated on 21/04/2022 19:15:51 UTC
 <!--END_SECTION:waka-->
