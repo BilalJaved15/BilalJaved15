@@ -8,7 +8,7 @@ I have been in the Computer Science field for over 3 years now.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [bilaljavedblackops15@gmail.com](mailto:bilaljavedblackops15@gmail.com)
-* 🚀  I'm currently working on [CampusCube (Final Year Project)](http://campuscube.netlify.app)
+* 🚀  I'm currently working on [CampusCube (Final Year Project)]
 
 ### Skills
 
