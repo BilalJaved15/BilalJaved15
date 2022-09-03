@@ -8,7 +8,6 @@ I have been in the Computer Science field for over 4 years now. I currently work
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [bilaljavedblackops15@gmail.com](mailto:bilaljavedblackops15@gmail.com)
-* 🚀  I'm currently working on CampusCube (Final Year Project)
 
 ### Skills
 
