@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Bilal
 Software Engineer
 -----------------
 
-I have been in the Computer Science field for over 4 years now. I currently work at Educative as a Software Engineer.
+I have been in the Computer Science field for over 4 years now. I am a Software Engineer at Educative.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [bilaljavedblackops15@gmail.com](mailto:bilaljavedblackops15@gmail.com)
