@@ -9,13 +9,8 @@ I have been in the Computer Science field for over 4 years now. I am a Software 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [bilaljavedblackops15@gmail.com](mailto:bilaljavedblackops15@gmail.com)
 
-### Skills
-
-Hi 👋 My name is Muhammad Bilal
-===============================
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
